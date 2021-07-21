@@ -1,1 +1,3 @@
-# hello-utrains
+# maven-project
+
+Simple Maven Project
